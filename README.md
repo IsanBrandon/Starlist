@@ -1,3 +1,1 @@
 # starlist
-
-Hello, World!
